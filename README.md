@@ -1,4 +1,3 @@
-## Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository has the instructions on how to run analysis on Human Activity recognition dataset.
 
 ## Dataset
